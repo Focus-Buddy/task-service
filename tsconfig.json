@@ -17,5 +17,6 @@
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false
-  }
+  }, 
+  "include": ["src/**/*", "test/**/*", "jest.config.ts", "test/jest-e2e.config.ts"]
 }
